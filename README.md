@@ -70,6 +70,9 @@
  
 # 使用方法 #
 TODO
+这里有一个例子可以先看一下
+https://github.com/xzchaoo/VCode-Typer/blob/master/src/main/java/org/xzc/vcode/bilibiliregister/Main.java
+
 
 
 # LICENSE #
